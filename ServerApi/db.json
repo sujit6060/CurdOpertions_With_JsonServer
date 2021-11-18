@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Subadra",
+      "email": "Subadra@gmail.com",
+      "designation": "Web Developer",
+      "number": "123456789",
+      "id": "ioUNQtt"
+    },
+    {
+      "name": "Sujit Nangare",
+      "email": "sujeetnangare@gmail.com",
+      "designation": "FullStack Developer",
+      "number": "987654321",
+      "id": "MlNIWqp"
+    }
+  ]
+}
